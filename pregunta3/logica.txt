@@ -1,0 +1,3 @@
+Python Script: Obtiene datos de la API de JSONPlaceholder y los inserta en las tablas de PostgreSQL.
+Cron Job: Ejecuta el script diariamente (o configuración de AWS Lambda para la ejecución en la nube).
+Docker Compose: Configura PostgreSQL en un contenedor Docker y crea las tablas necesarias.
